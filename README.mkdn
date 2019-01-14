@@ -2,5 +2,10 @@
 
 A [homebrew] tap for [ynetd]
 
+# Usage
+
+    brew tap rwstauner/ynetd
+    brew install ynetd
+
 [homebrew]: https://brew.sh
 [ynetd]: https://github.com/rwstauner/ynetd
