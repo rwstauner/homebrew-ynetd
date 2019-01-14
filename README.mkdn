@@ -1,0 +1,6 @@
+# homebrew-ynetd
+
+A [homebrew] tap for [ynetd]
+
+[homebrew]: https://brew.sh
+[ynetd]: https://github.com/rwstauner/ynetd
