@@ -3,9 +3,8 @@ require "language/go"
 class Ynetd < Formula
   desc "A tiny super server written in go"
   homepage "https://github.com/rwstauner/ynetd"
-  url "https://github.com/rwstauner/ynetd/archive/v0.10.tar.gz"
-  sha256 "de239e4550771fb16382ec7ae2616119bb16f00f6bb37c168789173ced13ade8"
-  head "https://github.com/rwstauner/ynetd.git"
+  url "https://github.com/rwstauner/ynetd.git", :tag => "v0.11"
+  head "https://github.com/rwstauner/ynetd.git", :branch => "master"
 
   depends_on "go" => :build
 
